@@ -7,12 +7,12 @@
 >>* Left Alt + i = control + up arrow
 >>* Left Alt + j = control + down arrow
 >>
->>* Left Alt + Space = control +  right >arrow = go one word right
->>* Right Alt + Space = control +  left >arrow = go one word left
+>>* Left Alt + Space = control +  right arrow = go one word right
+>>* Right Alt + Space = control +  left arrow = go one word left
 >>
->>* Alt + shift + h = control + shift + >right arrow
->>* Alt + shift + l = control + shift + left >arrow
->>* Alt + shift + i = control + shift + up >arrow
+>>* Alt + shift + h = control + shift + right arrow
+>>* Alt + shift + l = control + shift + left arrow
+>>* Alt + shift + i = control + shift + up arrow
 >>* Alt + shift + j = control + shift + down >arrow
 >>
 >>* Alt + [ = control + home
