@@ -1,6 +1,6 @@
 ># Keyboard hero 0.01
 >># How to install
->># 1. [Download]("https://github.com/girimanojkumar/keyboard-hero/raw/main/keyboard-hero-0.01.exe")
+>># 1. [Download](https://github.com/girimanojkumar/keyboard-hero/raw/main/keyboard-hero-0.01.exe)
 >># 2. Double click on file and install
 >># How to use 
 >>* Left Alt + h = control + left arrow
